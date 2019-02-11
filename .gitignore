@@ -1,0 +1,14 @@
+*.m
+*.pdf
+*.png
+*.JPG
+*.jpg
+*.log
+*.tex
+*.gz
+*.pyc
+*.swp
+*.aux
+*.DS_STORE
+*.xlsx
+*.swo
